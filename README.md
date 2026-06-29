@@ -1,3 +1,15 @@
+<div align="center">
+
+[![Video Thumbnail](./assets/images/video-thumbnail.jpg)]([https://x.com/hshare221/status/2040220284062404626](https://x.com/hshare221/status/2040220284062404626?s=20))
+
+<br>
+
+🎥 Watch on Twitter/X
+
+</div>
+
+
+
 <table>
 <tr>
 <td valign="top" width="45%">
