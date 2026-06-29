@@ -1,14 +1,3 @@
-<div align="center">
-
-[![Video Thumbnail](./assets/images/video-thumbnail.jpg)]([https://x.com/hshare221/status/2040220284062404626](https://x.com/hshare221/status/2040220284062404626?s=20))
-
-<br>
-
-🎥 Watch on Twitter/X
-
-</div>
-
-
 
 <table>
 <tr>
@@ -225,5 +214,58 @@ Think. Research. Design. Build. Secure. Automate. Share. Repeat.
 ```console
 ┌──(afiq㉿afuckingco)-[~]
 └─$ exit
+
+```
+
+<div align="center">
+
+### 📸 Character Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://pbs.twimg.com/media/HLyhYpyWgAAdS5B?format=jpg&name=large" 
+           width="300" 
+           alt="Character Art 1"
+           style="border-radius: 10px; border: 2px solid #00D9FF;"/>
+    </td>
+    <td align="center">
+      <img src="https://pbs.twimg.com/media/HLFLEXpW0AAc6Po?format=jpg&name=large" 
+           width="300" 
+           alt="Character Art 2"
+           style="border-radius: 10px; border: 2px solid #00D9FF;"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://pbs.twimg.com/media/HLZdwUoXkAAL8wj?format=jpg&name=large" 
+           width="300" 
+           alt="Character Art 3"
+           style="border-radius: 10px; border: 2px solid #00D9FF;"/>
+    </td>
+    <td align="center">
+      <img src="https://pbs.twimg.com/media/GyWDsVJXUAQHDcu?format=jpg&name=large" 
+           width="300" 
+           alt="Character Art 4"
+           style="border-radius: 10px; border: 2px solid #00D9FF;"/>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="https://pbs.twimg.com/media/GyWDtxQW8AUJ3vE?format=jpg&name=large" 
+           width="300" 
+           alt="Character Art 3"
+           style="border-radius: 10px; border: 2px solid #00D9FF;"/>
+    </td>
+    <td align="center">
+      <img src="https://pbs.twimg.com/media/GyWDv-IXgAAFjot?format=jpg&name=large" 
+           width="300" 
+           alt="Character Art 4"
+           style="border-radius: 10px; border: 2px solid #00D9FF;"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 ```
 > *Connection closed. Build something useful.*
