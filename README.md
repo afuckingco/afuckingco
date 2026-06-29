@@ -1,10 +1,3 @@
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=afuckingco&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afuckingco&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ```console
 ┌──(afiq㉿afuckingco)-[~]
 └─$ fastfetch
@@ -42,6 +35,16 @@
 > I am **afuckingco** — a single mind operating across multiple disciplines. I write security tools by day, train neural networks by afternoon, and produce music, design fashion, and build art by night. Everything I create is an extension of the same curiosity: to understand systems, break them, rebuild them, and make them beautiful.
 
 ---
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=afuckingco&theme=tokyonight&hide_border=true&card_width=800"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afuckingco&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=FF3B30&color=C9D1D9&area=true&area_color=00D9FF"/>
+</div>
 
 ```console
 ┌──(afiq㉿afuckingco)-[~/toolkit]
@@ -180,24 +183,6 @@ Art & Music            ███████████████████
 Coffee                 ████████████████████  REQUIRED
 Sleep                  ██░░░░░░░░░░░░░░░░░░  UNKNOWN
 ```
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=afuckingco&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afuckingco&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=FF3B30&color=C9D1D9"/>
-
-</div>
-
----
 
 ```console
 ┌──(afiq㉿afuckingco)-[~]
