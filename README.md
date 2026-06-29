@@ -215,6 +215,7 @@ Think. Research. Design. Build. Secure. Automate. Share. Repeat.
 ┌──(afiq㉿afuckingco)-[~]
 └─$ exit
 
+> *Connection closed. Build something useful.*
 ```
 
 <div align="center">
@@ -268,4 +269,3 @@ Think. Research. Design. Build. Secure. Automate. Share. Repeat.
 
 </div>
 ```
-> *Connection closed. Build something useful.*
