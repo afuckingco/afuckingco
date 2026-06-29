@@ -1,31 +1,29 @@
-```console
-┌──(afiq㉿afuckingco)-[~]
-└─$ fastfetch
-```
+<table>
+<tr>
+<td valign="top" width="45%">
 
 ```text
-                   -`                      afiq@afuckingco
-                  .o+`                     ---------------
-                 `ooo/                     OS      : Kali Linux x86_64
-                `+oooo:                    Kernel  : Linux 6.x
-               `+oooooo:                   Shell   : zsh 5.9 | Terminal: Ghostty
-              -+oooooo+:                   Editor  : Neovim (LazyVim)
-            `/:-:++oooo+:                  Role    : Security Researcher • ML Engineer
-           `/++++/+++++++:                 Focus   : Practical Cryptography • Adaptive AI
-          `/++++++++++++++:                Studio  : Contemporary Art & Independent Audio
-         `/+++ooooooooooooo/`
-        ./ooosssso++osssssso+`
-       .oossssso-````/ossssss+`
-      -osssssso.      :ssssssso.
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                  `
+⠀⠀⠀⠀⠠⠤⠤⠤⠤⠤⣤⣤⣤⣄⣀⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠿⢶⣤⣄⡀
+⠀⠀⢀⣀⣀⣠⣤⣤⣴⠶⠶⠶⠶⠶⠶⠶⠶⠶⠿⠿⢿⡇
+⠚⠛⠉⠉⠉⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⡴⠶⠶⠿⠿⠿⣧⡀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠞⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⢸⣿⣷⣶⣦⣤⣄⣈⡑⢦⣀
+⠀⠀⠀⠀⣠⠔⠚⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡿⠟⠉⠉⠉⠉⠙⠛⠿⣿⣮⣷⣤
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⣯⣧⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢷⡤
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣦⣤⣀⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠻⠿⠿⣿⣶⣶⣦⣄⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣯⡛⠻⢦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣆⠀⠙⢆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣆⠀⠈⢣
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⡆⠀⠈
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠀
 ```
 
----
+</td>
+<td valign="top" width="55%">
 
 ```console
 ┌──(afiq㉿afuckingco)-[~]
@@ -34,23 +32,13 @@
 
 > I am **afuckingco** — a single mind operating across multiple disciplines. I write security tools by day, train neural networks by afternoon, and produce music, design fashion, and build art by night. Everything I create is an extension of the same curiosity: to understand systems, break them, rebuild them, and make them beautiful.
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=afuckingco&theme=tokyonight&hide_border=true&card_width=800"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afuckingco&theme=react-dark&bg_color=0D1117&hide_border=true&line=00D9FF&point=FF3B30&color=C9D1D9&area=true&area_color=00D9FF"/>
-</div>
-
-```console
-┌──(afiq㉿afuckingco)-[~/toolkit]
-└─$ ls --all
 ```
-
+```
 <div align="center">
 
 ### Programming Languages
