@@ -27,7 +27,7 @@
 <td valign="top" width="55%">
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ whoami
 ```
 
@@ -108,7 +108,7 @@
 ---
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ htop --skills
 ```
 
@@ -139,7 +139,7 @@ Accuracy: 92.4% | Latency: 45ms | Status: RUNNING
 ---
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ afuckingco --list-expressions
 ```
 
@@ -148,19 +148,19 @@ Accuracy: 92.4% | Latency: 45ms | Status: RUNNING
   ─────────────────────────────────────────────────────────────────
   security-research       ACTIVE     Vulnerability analysis, tooling, cryptography
   machine-learning        ACTIVE     PyTorch, adaptive systems, computer vision
-  another-waltz           ACTIVE     Contemporary art & visual research
-  pilgrims-records        ACTIVE     Independent audio releases (vinyl, cassette, CD)
-  ruby-rubhin             ACTIVE     Music production, composition, sound design
-  margiella-stanza        ACTIVE     Fashion concepts & textile research
-  archienco               ACTIVE     Architecture & interior spatial design
-  kyla-liszt              IDLE       Line art & illustration
+  .............           ACTIVE     Contemporary art & visual research
+  .................       ACTIVE     Independent audio releases (vinyl, cassette, CD)
+  ...........             ACTIVE     Music production, composition, sound design
+  ................        ACTIVE     Fashion concepts & textile research
+  ..........              ACTIVE     Architecture & interior spatial design
+  ..........              IDLE       Line art & illustration
 ```
 > *Every mode is a different expression of the same mind. Not separate studios or labels — just me, working across mediums.*
 
 ---
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ cat status.log
 ```
 
@@ -174,7 +174,7 @@ Sleep                  ██░░░░░░░░░░░░░░░░░
 ```
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ connect --socials
 ```
 
@@ -182,13 +182,10 @@ Sleep                  ██░░░░░░░░░░░░░░░░░
   <a href="https://github.com/afuckingco" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/afiqandico" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/afuckingco" target="_blank">
+   <a href="https://instagram.com/afuckingco" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:afiq@afuckingco.dev" target="_blank">
+  <a href="mailto:afiqandico13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
  </div>
@@ -196,7 +193,7 @@ Sleep                  ██░░░░░░░░░░░░░░░░░
 ---
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ echo $MISSION
 ```
 
@@ -212,7 +209,7 @@ Think. Research. Design. Build. Secure. Automate. Share. Repeat.
 ```
 
 ```console
-┌──(afiq㉿afuckingco)-[~]
+┌──(test㉿afuckingco)-[~]
 └─$ exit
 
 > *Connection closed. Build something useful.*
