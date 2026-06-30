@@ -38,10 +38,11 @@
 <tr>
 <td colspan="2">
 
-```
-```
-<div align="center">
+### ███████████████████░░░░░░   "ACTIVE TOOLS FO WORK"  ███████████████████░░░░░░
+══════════════════════════════════════════════════════════════════════════════════════
 
+<div align="center">
+  
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -102,7 +103,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)
 ![zsh](https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
-
 </div>
 
 ---
@@ -111,7 +111,6 @@
 ┌──(test㉿afuckingco)-[~]
 └─$ htop --skills
 ```
-
 ```text
 Languages      : Python (95%), TypeScript (90%), Rust (70%), Bash (85%)
 AI / ML        : PyTorch (90%), TensorFlow (85%), OpenCV (80%), Pandas (95%)
@@ -119,7 +118,6 @@ Security       : Kali Linux (90%), Nmap (85%), Burp Suite (80%), OWASP (80%)
 DevOps / Tools : Docker (90%), Linux (95%), Git (90%), PostgreSQL (80%)
 Creative       : Ableton Live (95%), Figma (85%), Adobe CC (80%), Blender (70%)
 ```
-
 ---
 
 ### 🔵 SignBridge AI | Machine Learning
@@ -129,20 +127,11 @@ Accuracy: 92.4% | Latency: 45ms | Status: RUNNING
 ```
 > *My real-time Indonesian Sign Language (BISINDO) translator powered by computer vision.*
 
-### 🟣 another waltz | Art
-```text
-[Mode] Visual Research & Contemporary Art
-[Active] Exhibitions, Publications, Experimental Design
-```
-> *My personal art practice exploring the intersection of visual research and digital media.*
-
----
 
 ```console
 ┌──(test㉿afuckingco)-[~]
 └─$ afuckingco --list-expressions
 ```
-
 ```text
   MODE                    STATE      DESCRIPTION
   ─────────────────────────────────────────────────────────────────
@@ -163,7 +152,6 @@ Accuracy: 92.4% | Latency: 45ms | Status: RUNNING
 ┌──(test㉿afuckingco)-[~]
 └─$ cat status.log
 ```
-
 ```text
 Security Research      ████████████████████  ACTIVE
 Machine Learning       ████████████████████  ACTIVE
