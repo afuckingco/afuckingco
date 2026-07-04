@@ -128,7 +128,7 @@ Languages      : Python (95%), TypeScript (90%), Rust (70%), Bash (85%)
 AI / ML        : PyTorch (90%), TensorFlow (85%), OpenCV (80%), Pandas (95%)
 Security       : Kali Linux (90%), Nmap (85%), Burp Suite (80%), OWASP (80%)
 DevOps / Tools : Docker (90%), Linux (95%), Git (90%), PostgreSQL (80%)
-Creative       : Ableton Live (95%), Figma (85%), Adobe CC (80%), Blender (70%)
+Creative       : Manual Techniques (95%)
 ```
 ---
 
@@ -152,8 +152,6 @@ Accuracy: 92.4% | Latency: 45ms | Status: RUNNING
   .............           ACTIVE     Contemporary art & visual research
   .................       ACTIVE     Independent audio releases (vinyl, cassette, CD)
   ...........             ACTIVE     Music production, composition, sound design
-  ................        ACTIVE     Fashion concepts & textile research
-  ..........              ACTIVE     Architecture & interior spatial design
   ..........              IDLE       Line art & illustration
 ```
 > *Every mode is a different expression of the same mind. Not separate studios or labels — just me, working across mediums.*
