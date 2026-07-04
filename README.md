@@ -54,8 +54,6 @@
 
 <div align="center">
 
-<div align="center">
-
 
 [![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-a6e3a1?style=for-the-badge&labelColor=1e1e2e)]()
 [![Progress](https://img.shields.io/badge/LOADING-100%25-89b4fa?style=for-the-badge&labelColor=1e1e2e)]()
