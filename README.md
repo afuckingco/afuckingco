@@ -12,7 +12,7 @@
       https://orcid.org/0009-0002-1750-9551
     </a>
 
-    
+
 <table>
 <tr>
 <td valign="top" width="45%">
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -149,13 +149,16 @@ Accuracy: 92.4% | Latency: 45ms | Status: RUNNING
 ## 📊 Quick Stats
 
 ```
-Total Repositories : 25
-Active Projects    : 17
-Tools Published    : 6
-Thesis Research    : 4
-ML/Data Science    : 6
-Security Reviews   : 4
+Total Repositories   : 14
+Consolidated Suites  : 5   (multi-project monorepos, full history preserved)
+Standalone Projects  : 9
+Tools Published      : 4   (security-cli-toolkit, security-scanning-suite, code-audit-toolkit, pilgrims-v17)
+Research Projects    : 3   (bundled inside lstm-partial-reset)
+ML / Data Science    : 6   (bundled inside portfolio-showcase)
+Security Reviews     : 3   (bundled inside security-review-reports)
 ```
+
+> **Note on repo count:** Previously 29 repositories, now consolidated to 14. Related small projects were merged into thematic monorepos using `git subtree` — full commit history for every merged project is preserved inside its subdirectory. Nothing was lost in the process.
 
 ---
 
@@ -166,83 +169,104 @@ Security Reviews   : 4
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[inji-cho](https://github.com/afuckingco/inji-cho)** | 隠寺手帖 — Hidden shrine catalog with real-time mapping | Phase 2: Active |
-| **[thesis-inertia-lstm-reset](https://github.com/afuckingco/thesis-inertia-lstm-reset)** | Adaptive LSTM for stress prediction (concept drift handling) | Core Research |
+| **[lstm-partial-reset](https://github.com/afuckingco/lstm-partial-reset)** | Adaptive LSTM research suite — energy, stock, and stress prediction with periodic partial reset | Core Research |
 | **[signbridge-ai](https://github.com/afuckingco/signbridge-ai)** | BISINDO real-time translator (92.4% accuracy) | Published ✅ |
 | **[pilgrims-v17](https://github.com/afuckingco/pilgrims-v17)** | Ultimate security framework (20 modules, 53 features) | Production |
-| **[pahchinsan-developer](https://github.com/afuckingco/pahchinsan-developer)** | Pahchin Dev studio portfolio & toolkit | Active |
+| **[margiela-web-studio](https://github.com/afuckingco/margiela-web-studio)** | Studio & portfolio web presence | Active |
 
 </div>
 
 ---
-*Concept drift adaptation in LSTM models — periodic partial reset approach*
 
-| Repo | Status | Stack | Priority |
+## 🧠 Thesis & Research — `lstm-partial-reset`
+*Concept drift adaptation in LSTM models — periodic partial reset approach. All three domains live in one repository, each preserving its own commit history.*
+
+| Subproject | Domain | Stack | Priority |
 |------|--------|-------|----------|
-| **[thesis-inertia-lstm-reset](https://github.com/afuckingco/thesis-inertia-lstm-reset)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/ML-0075ca?style=flat) | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
-| **[optimasi-manajemen-itb-stikom-bali](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
-| **[energy-reset-lstm](https://github.com/afuckingco/energy-reset-lstm)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/ML-0075ca?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
-| **[stock-reset-lstm](https://github.com/afuckingco/stock-reset-lstm)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/ML-0075ca?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
+| **[thesis-inertia-lstm-reset](https://github.com/afuckingco/lstm-partial-reset/tree/main/thesis-inertia-lstm-reset)** | Stress prediction (thesis) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/ML-0075ca?style=flat) | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
+| **[energy-reset-lstm](https://github.com/afuckingco/lstm-partial-reset/tree/main/energy-reset-lstm)** | Energy consumption forecasting | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/ML-0075ca?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
+| **[stock-reset-lstm](https://github.com/afuckingco/lstm-partial-reset/tree/main/stock-reset-lstm)** | Stock price prediction | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/ML-0075ca?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
+
+Related: **[optimasi-manajemen-itb-stkom-bali](https://github.com/afuckingco/optimasi-manajemen-itb-stkom-bali)** — Data science research on campus management optimization (standalone).
 
 ---
 
 ## 🛠️ Security Tools
-*CLI tools & linters for vulnerability detection & hardening*
+*CLI tools & linters for vulnerability detection & hardening, organized into two consolidated suites plus standalone tools.*
 
-| Repo | Status | Stack | Priority |
-|------|--------|-------|----------|
-| **[pilgrims-v17](https://github.com/afuckingco/pilgrims-v17)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Go-00add8?style=flat) ![](https://img.shields.io/badge/Python-3776AB?style=flat) | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
-| **[sift](https://github.com/afuckingco/sift)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Go-00add8?style=flat) | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
-| **[secradar](https://github.com/afuckingco/secradar)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Rust-ce422b?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
-| **[dockguard](https://github.com/afuckingco/dockguard)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
-| **[link-cleaner](https://github.com/afuckingco/link-cleaner)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
-| **[code-audit-toolkit](https://github.com/afuckingco/code-audit-toolkit)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
+**[security-cli-toolkit](https://github.com/afuckingco/security-cli-toolkit)** — secret & config scanning CLIs
+
+| Subproject | Stack |
+|------|-------|
+| **[sift](https://github.com/afuckingco/security-cli-toolkit/tree/main/sift)** | ![](https://img.shields.io/badge/Go-00add8?style=flat) — Entropy-based secret scanner |
+| **[secradar](https://github.com/afuckingco/security-cli-toolkit/tree/main/secradar)** | ![](https://img.shields.io/badge/Rust-ce422b?style=flat) — Secret scanner w/ git history scan |
+| **[dockguard](https://github.com/afuckingco/security-cli-toolkit/tree/main/dockguard)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) — Dockerfile security linter |
+| **[link-cleaner](https://github.com/afuckingco/security-cli-toolkit/tree/main/link-cleaner)** | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat) — Privacy-first tracking-param stripper |
+
+**[security-scanning-suite](https://github.com/afuckingco/security-scanning-suite)** — CI/CD scanning pipelines
+
+| Subproject | Stack |
+|------|-------|
+| **[secure-ops-suite](https://github.com/afuckingco/security-scanning-suite/tree/main/secure-ops-suite)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) — Anomaly detection + secure package proxy |
+| **[sec-scan-cli](https://github.com/afuckingco/security-scanning-suite/tree/main/sec-scan-cli)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) — Unified npm/pip/Gitleaks/Suricata CLI |
+| **[secure-ci-pipeline](https://github.com/afuckingco/security-scanning-suite/tree/main/secure-ci-pipeline)** | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat) — Multi-stack CI security pipeline |
+| **[log-anonymizer](https://github.com/afuckingco/security-scanning-suite/tree/main/log-anonymizer)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) — Privacy-preserving log anonymization |
+
+**Standalone:**
+
+| Repo | Stack | Priority |
+|------|-------|----------|
+| **[pilgrims-v17](https://github.com/afuckingco/pilgrims-v17)** | ![](https://img.shields.io/badge/Go-00add8?style=flat) ![](https://img.shields.io/badge/Python-3776AB?style=flat) | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
+| **[code-audit-toolkit](https://github.com/afuckingco/code-audit-toolkit)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) — AI-assisted code audit workflow | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
 
 ---
 
-## 🔒 Security Work & Pentesting
-*Academic penetration testing & security reviews (responsible disclosure)*
+## 🔒 Security Work & Pentesting — `security-review-reports`
+*Academic penetration testing & security reviews (responsible disclosure), consolidated into one repository.*
 
-| Repo | Status | Type | Priority |
-|------|--------|------|----------|
-| **[dvwa-portfolio](https://github.com/afuckingco/dvwa-portfolio)** | ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat) | Portfolio | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
-| **[unud-web-security-review](https://github.com/afuckingco/unud-web-security-review)** | ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat) | Pentest Report | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
-| **[warmadewa-web-security-review](https://github.com/afuckingco/warmadewa-web-security-review)** | ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat) | Security Review | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
-| **[sion-stikom-security-review](https://github.com/afuckingco/sion-stikom-security-review)** | ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat) | Security Review | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
+| Subproject | Type | Priority |
+|------|------|----------|
+| **[unud-web-security-review](https://github.com/afuckingco/security-review-reports/tree/main/unud-web-security-review)** | Pentest Report | ![](https://img.shields.io/badge/CORE-d1242f?style=flat) |
+| **[warmadewa-web-security-review](https://github.com/afuckingco/security-review-reports/tree/main/warmadewa-web-security-review)** | Security Review | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
+| **[sion-stikom-security-review](https://github.com/afuckingco/security-review-reports/tree/main/sion-stikom-security-review)** | Security Review | ![](https://img.shields.io/badge/IMPORTANT-ff6b00?style=flat) |
 
 ---
 
-## 🤖 Machine Learning & Data Science
-*End-to-end ML pipelines, computer vision, time-series forecasting*
+## 🤖 Machine Learning & Data Science — `portfolio-showcase`
+*End-to-end ML pipelines, time-series forecasting, and analytics projects, consolidated into one repository.*
 
-| Repo | Status | Stack | Use Case |
-|------|--------|-------|----------|
-| **[signbridge-ai](https://github.com/afuckingco/signbridge-ai)** | ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat) | BISINDO Translator (Real-time) |
-| **[fraud-detection](https://github.com/afuckingco/fraud-detection)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/FastAPI-009688?style=flat) | XGBoost + Streamlit Dashboard |
-| **[bali-tourism-mlops](https://github.com/afuckingco/bali-tourism-mlops)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/LSTM-0075ca?style=flat) | Tourism Arrival Forecasting |
-| **[kopikita](https://github.com/afuckingco/kopikita)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/Prophet-1f77b4?style=flat) | Café Analytics & RFM Segmentation |
-| **[air-quality-gru-reset](https://github.com/afuckingco/air-quality-gru-reset)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/GRU-0075ca?style=flat) | PM2.5 Prediction with Reset |
-| **[sentiment-streaming](https://github.com/afuckingco/sentiment-streaming)** | ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/Redis-DC382D?style=flat) | Real-time Sentiment Stream Sim |
+| Subproject | Stack | Use Case |
+|------|-------|----------|
+| **[fraud-detection](https://github.com/afuckingco/portfolio-showcase/tree/main/fraud-detection)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/FastAPI-009688?style=flat) | XGBoost + Streamlit Dashboard |
+| **[bali-tourism-mlops](https://github.com/afuckingco/portfolio-showcase/tree/main/bali-tourism-mlops)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/LSTM-0075ca?style=flat) | Tourism Arrival Forecasting |
+| **[kopikita](https://github.com/afuckingco/portfolio-showcase/tree/main/kopikita)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/Prophet-1f77b4?style=flat) | Café Analytics & RFM Segmentation |
+| **[air-quality-gru-reset](https://github.com/afuckingco/portfolio-showcase/tree/main/air-quality-gru-reset)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/GRU-0075ca?style=flat) | PM2.5 Prediction with Reset |
+| **[sentiment-streaming](https://github.com/afuckingco/portfolio-showcase/tree/main/sentiment-streaming)** | ![](https://img.shields.io/badge/Python-3776AB?style=flat) ![](https://img.shields.io/badge/Redis-DC382D?style=flat) | Real-time Sentiment Stream Sim |
+| **[dvwa-portfolio](https://github.com/afuckingco/portfolio-showcase/tree/main/dvwa-portfolio)** | Portfolio | DVWA Security Research Writeup |
+
+**Standalone:** **[signbridge-ai](https://github.com/afuckingco/signbridge-ai)** — BISINDO real-time translator, ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat)
 
 ---
 
 ## 🌐 Web Applications
-*Full-stack applications & web studios*
+*Full-stack applications & web studios (standalone repositories).*
 
-| Repo | Status | Stack | Purpose |
-|------|--------|-------|---------|
-| **[inji-cho](https://github.com/afuckingco/inji-cho)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | ![](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat) ![](https://img.shields.io/badge/Leaflet-77B900?style=flat) ![](https://img.shields.io/badge/Vite-646CFF?style=flat) | Hidden Shrine Catalog (Phase 2) |
-| **[margiela-web-studio](https://github.com/afuckingco/margiela-web-studio)** | ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) | ![](https://img.shields.io/badge/Astro-FF5D01?style=flat) ![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat) | UMKM Studio Site |
-| **[tokokita](https://github.com/afuckingco/tokokita)** | ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) | ![](https://img.shields.io/badge/Node.js-339933?style=flat) ![](https://img.shields.io/badge/Express-000000?style=flat) | Security-Hardened Online Shop |
+| Repo | Stack | Purpose |
+|------|-------|---------|
+| **[inji-cho](https://github.com/afuckingco/inji-cho)** | ![](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat) ![](https://img.shields.io/badge/Leaflet-77B900?style=flat) ![](https://img.shields.io/badge/Vite-646CFF?style=flat) | Hidden Shrine Catalog (Phase 2) |
+| **[secure-express-shop](https://github.com/afuckingco/secure-express-shop)** | ![](https://img.shields.io/badge/Node.js-339933?style=flat) ![](https://img.shields.io/badge/Express-000000?style=flat) | Security-hardened e-commerce starter |
+| **[margiela-web-studio](https://github.com/afuckingco/margiela-web-studio)** | ![](https://img.shields.io/badge/Astro-FF5D01?style=flat) ![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat) | Studio & portfolio site |
+| **[tokokita](https://github.com/afuckingco/tokokita)** | ![](https://img.shields.io/badge/Node.js-339933?style=flat) ![](https://img.shields.io/badge/Express-000000?style=flat) | Security-hardened online shop |
 
 ---
 
 ## 💼 Portfolio & Brand
-*Professional identity & documentation*
+*Professional identity & documentation.*
 
-| Repo | Status | Purpose |
-|------|--------|---------|
-| **[pahchinsan-developer](https://github.com/afuckingco/pahchinsan-developer)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | Pahchin Dev Studio Site |
-| **[afuckingco](https://github.com/afuckingco/afuckingco)** | ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | Profile README & Documentation |
+| Repo | Purpose |
+|------|---------|
+| **[margiela-web-studio](https://github.com/afuckingco/margiela-web-studio)** | Studio brand site & portfolio |
+| **[afuckingco](https://github.com/afuckingco/afuckingco)** | Profile README & documentation (this repo) |
 
 ---
 
@@ -302,57 +326,41 @@ Sleep                  ██░░░░░░░░░░░░░░░░░
 
 ---
 
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ echo $MISSION
-```
-
-```text
-I am not multiple people. I am one person with many languages.
-Code is my logic. Security is my discipline. AI is my curiosity.
-Music is my emotion. Art is my question. Design is my answer.
-
-Everything I build — from a Dockerfile linter to a vinyl release —
-is the same act: making sense of the world, one system at a time.
-
-Think. Research. Design. Build. Secure. Automate. Share. Repeat.
-```
-
----
-
 ## 🏷️ Repository Organization & Labeling
 
 All repositories are tagged with the following system:
 
 **Category Labels:**
-- `category:thesis` — Thesis/skripsi research projects
-- `category:security-tool` — Security tools & linters
-- `category:security-work` — Penetration testing & reviews
-- `category:ml-data-science` — Machine learning & data science
-- `category:web-app` — Web applications
+- `category:thesis` — Thesis/research projects (bundled in `lstm-partial-reset`)
+- `category:security-tool` — Security tools & linters (bundled in `security-cli-toolkit` / `security-scanning-suite`)
+- `category:security-work` — Penetration testing & reviews (bundled in `security-review-reports`)
+- `category:ml-data-science` — Machine learning & data science (bundled in `portfolio-showcase`)
+- `category:web-app` — Standalone web applications
 - `category:portfolio` — Portfolio & documentation
+- `category:consolidated` — Monorepo containing multiple related subprojects
 
 **Status Labels:**
 - `status:active` ![](https://img.shields.io/badge/ACTIVE-28a745?style=flat) — Actively maintained
 - `status:paused` ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) — On hold, not abandoned
 - `status:published` ![](https://img.shields.io/badge/PUBLISHED-6f42c1?style=flat) — Released/published
-- `status:archived` — No longer maintained (archived, not deleted)
 
 > **Full label guide available in [github-labels-template.md](https://github.com/afuckingco/afuckingco/blob/main/github-labels-template.md)**
 
 ---
 
-## 📦 Archived / Paused Projects
+## 📦 Consolidation Note
 
-Projects that are no longer actively maintained but preserved for reference:
+In July 2026, 20 small standalone repositories were merged into 5 thematic monorepos using `git subtree` to reduce clutter while preserving every commit's history:
 
-| Repo | Reason | Status |
-|------|--------|--------|
-| **margiela-web-studio** | UMKM client work (paused) | ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) |
-| **tokokita** | Portfolio piece (paused) | ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) |
-| **sentiment-streaming** | Learning artifact (moved to production ML) | ![](https://img.shields.io/badge/PAUSED-ffc107?style=flat) |
+| Consolidated Repo | Former Standalone Repos |
+|---|---|
+| **security-cli-toolkit** | sift, secradar, dockguard, link-cleaner |
+| **security-scanning-suite** | secure-ops-suite, sec-scan-cli, secure-ci-pipeline, log-anonymizer |
+| **lstm-partial-reset** | energy-reset-lstm, stock-reset-lstm, thesis-inertia-lstm-reset |
+| **security-review-reports** | unud-web-security-review, warmadewa-web-security-review, sion-stikom-security-review |
+| **portfolio-showcase** | kopikita, air-quality-gru-reset, sentiment-streaming, fraud-detection, bali-tourism-mlops, dvwa-portfolio |
 
-> Note: Nothing is deleted. Paused projects can be resumed. Check `status:*` labels for current maintenance.
+Old repository names above no longer exist as standalone links — browse them under the consolidated repo's subdirectory instead.
 
 ---
 
@@ -365,7 +373,6 @@ Projects that are no longer actively maintained but preserved for reference:
 - Academic partnerships & thesis collaboration
 
 **Connect with me:**
-
 
 <div align="center">
   <a href="https://github.com/afuckingco" target="_blank">
@@ -406,6 +413,6 @@ Think. Research. Design. Build. Secure. Automate. Share. Repeat.
 ```console
 ┌──(test㉿afuckingco)-[~]
 └─$ exit
+```
 
 > *Connection closed. Build something useful.*
-```
