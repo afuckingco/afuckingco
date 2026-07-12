@@ -1,75 +1,26 @@
 ---
 name: Feature Request
 about: Suggest an idea or improvement
-title: '[FEATURE] '
+title: "[FEATURE] "
 labels: enhancement
-assignees: ''
 ---
-
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ cat feature_request.md
-```
 
 ## Summary
 
-> A clear, concise description of the feature you'd like.
-
----
-
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ echo $PROBLEM
-```
+> A clear, concise description of the feature.
 
 ## Problem / Motivation
 
-> What problem does this solve? Is your request related to a frustration or limitation you've hit?
-
----
-
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ echo $PROPOSED_SOLUTION
-```
+> What problem does this solve?
 
 ## Proposed Solution
 
-> Describe how you'd like this to work. Include example usage/API/CLI if relevant.
-
-```bash
-# example command or code snippet, if applicable
-```
-
----
-
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ diff alternatives.md
-```
+> Describe how you would like this to work.
 
 ## Alternatives Considered
 
-> Any alternative solutions or workarounds you've thought about.
-
----
-
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ echo $SCOPE
-```
-
 ## Scope
 
-> For monorepos: which subproject would this affect? `(e.g. lstm-partial-reset/energy-reset-lstm)`
-
----
-
-```console
-┌──(test㉿afuckingco)-[~]
-└─$ echo $NOTES
-```
+> For monorepos: which subproject would this affect?
 
 ## Additional Context
-
-> Mockups, references, related issues, or anything else useful.
