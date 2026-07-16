@@ -4,7 +4,7 @@
 └─$ whoami
 ```
 
-# 👋 Afiq Andico
+# 👋 afuckingco
 
 > Security Researcher · AI/ML Engineer · Systems Architect
 >
