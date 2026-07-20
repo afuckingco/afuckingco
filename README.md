@@ -56,9 +56,15 @@ inline const std::vector<Project> PROJECTS = {
      "CLI scanners, CI pipelines, log anonymizer, PILGRIMS framework."},
     {"code-audit-toolkit",  "https://github.com/afuckingco/code-audit-toolkit",   "AI",
      "Unified code-audit workflow across 6 AI endpoints."},
+    {"sctk-commercial",     "https://github.com/afuckingco/sctk-commercial",      "Python/Go/Rust",
+     "Security CLI Toolkit — 3 scanners in one CLI."},
     {"pilgrims",            "https://github.com/afuckingco/pilgrims",             "Shell",
      "PILGRIMS v17.0 — 20-module security framework."},
-    // Web
+    // Web / POS
+    {"warnet-enterprise",   "https://github.com/afuckingco/warnet-enterprise",    "FastAPI+Next.js",
+     "Warnet POS & remote PC control — FastAPI, Next.js, WebSocket."},
+    {"bayu-coffee-pos",     "https://github.com/afuckingco/bayu-coffee-pos",      "Node.js",
+     "Coffee shop POS — SQLite, bcrypt, Midtrans payments."},
     {"secure-express-shop", "https://github.com/afuckingco/secure-express-shop",  "JavaScript",
      "Security-hardened Express e-commerce starter."},
     {"tokokita",            "https://github.com/afuckingco/tokokita",             "JavaScript",
@@ -84,7 +90,7 @@ inline const std::vector<Project> PROJECTS = {
 
 | field | value |
 |---|---|
-| **repos** | 10 public |
+| **repos** | 12 public |
 | **domains** | `Security` · `ML` · `Web` · `Embedded` |
 | **languages** | `Python` · `TypeScript` · `JavaScript` · `C` · `Shell` |
 | **frameworks** | `Next.js` · `Express` · `Astro` · `Tailwind` · `PyTorch` · `XGBoost` |
@@ -99,6 +105,8 @@ inline const std::vector<Project> PROJECTS = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
@@ -112,9 +120,9 @@ inline const std::vector<Project> PROJECTS = {
 
 **ML** — [lstm-partial-reset](https://github.com/afuckingco/lstm-partial-reset) · [portfolio-showcase](https://github.com/afuckingco/portfolio-showcase)
 
-**Security** — [security-writeups](https://github.com/afuckingco/security-writeups) · [security-ops-suite](https://github.com/afuckingco/security-ops-suite) · [code-audit-toolkit](https://github.com/afuckingco/code-audit-toolkit) · [pilgrims](https://github.com/afuckingco/pilgrims)
+**Security** — [security-writeups](https://github.com/afuckingco/security-writeups) · [security-ops-suite](https://github.com/afuckingco/security-ops-suite) · [code-audit-toolkit](https://github.com/afuckingco/code-audit-toolkit) · [sctk-commercial](https://github.com/afuckingco/sctk-commercial) · [pilgrims](https://github.com/afuckingco/pilgrims)
 
-**Web** — [secure-express-shop](https://github.com/afuckingco/secure-express-shop) · [tokokita](https://github.com/afuckingco/tokokita) · [pahchinsan-studio](https://github.com/afuckingco/pahchinsan-studio)
+**Web / POS** — [warnet-enterprise](https://github.com/afuckingco/warnet-enterprise) · [bayu-coffee-pos](https://github.com/afuckingco/bayu-coffee-pos) · [secure-express-shop](https://github.com/afuckingco/secure-express-shop) · [tokokita](https://github.com/afuckingco/tokokita) · [pahchinsan-studio](https://github.com/afuckingco/pahchinsan-studio)
 
 ---
 
