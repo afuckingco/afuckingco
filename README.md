@@ -1,4 +1,4 @@
-### Hai, Afiq ��
+### Hai ��
 #### Full-Stack Developer · Building tools that don't suck
 
 **Tech Stack:**  
@@ -16,8 +16,5 @@
 **Proyek Unggulan:**  
 �� **[fuckit-list](https://github.com/afuckingco/fuckit)** – Aplikasi produktivitas dengan sentuhan brutal.  
 �� **[awesome-fuckit](https://github.com/afuckingco/awesome-fuckit)** – Kurasi tools & resource developer pilihan.
-
-�� **Hubungi saya:**  
-[LinkedIn](https://linkedin.com/in/afiq-andico) · [Twitter](https://twitter.com/afiqandico) · [Website](https://lucydreamgallery.com)
 
 <p align="center">“Code like you give a fuck.”</p>
